@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Elsayed85\RedisService\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class RedisServiceCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'redis-service';
 
     public $description = 'My command';
 
