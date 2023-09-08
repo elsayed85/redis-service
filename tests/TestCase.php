@@ -2,9 +2,9 @@
 
 namespace Elsayed85\RedisService\Tests;
 
+use Elsayed85\RedisService\RedisServiceServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Elsayed85\RedisService\RedisServiceServiceProvider;
 
 class TestCase extends Orchestra
 {

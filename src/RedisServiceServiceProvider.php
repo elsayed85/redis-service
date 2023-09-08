@@ -4,7 +4,6 @@ namespace Elsayed85\RedisService;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Elsayed85\RedisService\Commands\RedisServiceCommand;
 
 class RedisServiceServiceProvider extends PackageServiceProvider
 {
